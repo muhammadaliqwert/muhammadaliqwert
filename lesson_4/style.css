@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.containe{
+    background-color: rgb(42, 92, 42);
+}
+.card_list{
+    display: inline;
+}
+nav{
+    margin-top: 40px;
+    width: 100px;
+    height: 60px;
+    border: 1px solid #000;
+}
