@@ -1,0 +1,24 @@
+.home{
+    width: 350px;
+    height: 200px;
+    margin-bottom:  20px;
+    border: 2px solid black;
+}
+.home1{
+    background:  linear-gradient(
+        to bottom,
+        blue 33%,
+        red 35%,
+        white 30%,
+        white 70%,
+        red 72%,
+        green 66%
+    );
+}
+.home2{
+    background:  radial-gradient(
+        150px,
+        rgb(244, 232, 0), 
+         rgb(252, 252, 252)
+    );
+}
